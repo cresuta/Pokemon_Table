@@ -103,6 +103,24 @@ td:nth-of-type(4) {
     background-color: #A8B820;
 }
 
+.normal {
+    border: 1px solid #A8A878;
+    border-radius: 50%;
+    background-color: #A8A878;
+}
+
+.electric {
+    border: 1px solid #F8D030;
+    border-radius: 50%;
+    background-color: #F8D030;
+}
+
+.ground {
+    border: 1px solid #E0C068;
+    border-radius: 50%;
+    background-color: #E0C068;
+}
+
 .empty {
   border: none;
 }
