@@ -108,6 +108,12 @@ td:nth-of-type(4) {
     background-color: #E0C068;
 }
 
+.fairy {
+    border: 1px solid #F0B6BC;
+    border-radius: 50%;
+    background-color: #F0B6BC;
+}
+
 .empty {
   border: none;
 }
