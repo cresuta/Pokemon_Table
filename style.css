@@ -116,6 +116,12 @@ td:nth-of-type(4) {
     background-color: #F0B6BC;
 }
 
+.fighting {
+    border: 1px solid #C03028;
+    border-radius: 50%;
+    background-color: #C03028; 
+}
+
 .empty {
   border: none;
 }
