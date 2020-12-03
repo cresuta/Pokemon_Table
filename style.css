@@ -2,7 +2,6 @@ table {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 5px;
 }
 
 caption {
@@ -104,10 +103,22 @@ td:nth-of-type(4) {
     background-color: #F8D030;
 }
 
+.steel {
+    border: 1px solid #B8B8D0;
+    border-radius: 50%;
+    background-color: #B8B8D0;
+}
+
 .ground {
     border: 1px solid #E0C068;
     border-radius: 50%;
     background-color: #E0C068;
+}
+
+.rock {
+    border: 1px solid #B8A038;
+    border-radius: 50%;
+    background-color: #B8A038;
 }
 
 .fairy {
@@ -120,6 +131,12 @@ td:nth-of-type(4) {
     border: 1px solid #C03028;
     border-radius: 50%;
     background-color: #C03028; 
+}
+
+.psychic {
+    border: 1px solid #F85888;
+    border-radius: 50%;
+    background-color: #F85888; 
 }
 
 .empty {
