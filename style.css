@@ -151,6 +151,12 @@ td:nth-of-type(4) {
     background-color: #705898; 
 }
 
+.dragon {
+    border: 1px solid #7038F8;
+    border-radius: 50%;
+    background-color: #7038F8; 
+}
+
 .empty {
   border: none;
 }
